@@ -1,0 +1,4 @@
+/IntJoukkoSovellus/bin/*
+.nb-gradle/
+build/
+.gradle
